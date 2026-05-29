@@ -1,0 +1,28 @@
+categoria,codigo,marca,nombre,precioB,stockMin,depMin,ubiGon,tipo,sabor,kilos,bandeja,tacc,litros,retornable,uso,origen
+Alimento para gatos,AG001,Whiskas,Balance Adulto,4500,10,5,mascotas,seco,pollo,,,,,,,
+Alimento para gatos,AG002,Cat Chow,Delimix,5200,8,4,mascotas,seco,carne,,,,,,,
+Alimento para gatos,AG003,Purina,Gatitos,6100,6,3,mascotas,humedo,atun,,,,,,,
+Carne,CR001,Swift,Bife,9800,12,6,carnes,vacuna,,2,,,,,,
+Carne,CR002,Friar,Costilla,8700,10,5,carnes,vacuna,,3,,,,,,
+Carne,CR003,Campo Sur,Pechuga,7600,15,7,carnes,pollo,,2.5,,,,,,
+Fiambre,FB001,Paladini,Jamon,4200,10,5,fiambres,jamon,,,True,,,,,
+Fiambre,FB002,La Paulina,Queso,5300,8,4,fiambres,queso,,,False,,,,,
+Fiambre,FB003,Cagnoli,Salame,6100,6,3,fiambres,embutido,,,True,,,,,
+Fideos,FD001,Matarazzo,Spaghetti,1800,20,10,fideos,largos,,,,False,,,,
+Fideos,FD002,Lucchetti,Tirabuzon,2100,18,9,fideos,cortos,,,,True,,,,
+Fideos,FD003,Don Vicente,Moñitos,2400,15,8,fideos,cortos,,,,False,,,,
+Galletita,GL001,Oreo,Clasicas,1900,25,12,galletas,dulce,vainilla,,,,,,,
+Galletita,GL002,Pepitos,Chips,2100,20,10,galletas,dulce,chocolate,,,,,,,
+Galletita,GL003,Criollitas,Saladas,1700,18,9,galletas,salada,clasica,,,,,,,
+Gaseosa,GS001,Coca-Cola,Original,3200,30,15,bebidas,cola,cola,,,2.25,True,,,
+Gaseosa,GS002,Pepsi,Black,3100,25,12,bebidas,cola,cola,,,1.5,False,,,
+Gaseosa,GS003,Sprite,Limon,2900,22,11,bebidas,lima,lima-limon,,,2,True,,,
+Panaderia,PN001,Bimbo,Pan Lactal,2800,15,7,panaderia,pan,,,,,,,,
+Panaderia,PN002,Fargo,Medialunas,3500,10,5,panaderia,factura,,,,,,,,
+Panaderia,PN003,La Española,Bizcochos,2400,12,6,panaderia,bizcocho,,,,,,,,
+Perfume,PF001,Paco,Classic,8900,5,2,perfumes,masculino,,,,,0.1,,corporal,
+Perfume,PF002,Kevin,Black,12400,4,2,perfumes,masculino,,,,,0.15,,corporal,
+Perfume,PF003,Ciel,Fresh,9900,6,3,perfumes,femenino,,,,,0.12,,corporal,
+Verdura,VR001,Huerta Viva,Papa,1600,30,15,verduleria,tuberculo,,5,,,,,,Argentina
+Verdura,VR002,Campo Fresco,Tomate,2200,25,12,verduleria,fruto,,3,,,,,,Argentina
+Verdura,VR003,GreenFarm,Cebolla,1400,20,10,verduleria,bulbo,,4,,,,,,Chile
